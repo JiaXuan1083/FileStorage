@@ -2,9 +2,9 @@
     "ipadAir":
         {
             "color":["太空灰","粉紅色", "紫色", "藍色","星光色"],
-            "storage":["64GB","256GB","64GB","256GB"],
+            "storage":["64GB","256GB"],
             "price":["17900","22900","22900","27900"],
-            "network":["Wi-Fi","Wi-Fi+行動網路"],
+            "network":["Wi-Fi","Wi-Fi+行動網路"",Wi-Fi","Wi-Fi+行動網路"],
             "colorpic":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-spacegray-202203?wid=208&amp;hei=208&amp;fmt=png-alpha&amp;.v=1645072286860", "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-pink-202203?wid=208&amp;hei=208&amp;fmt=jpeg&amp;qlt=90&amp;.v=1645072286848", "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-purple-202203?wid=208&amp;hei=208&amp;fmt=jpeg&amp;qlt=90&amp;.v=1645072286861", "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-blue-202203?wid=208&amp;hei=208&amp;fmt=jpeg&amp;qlt=90&amp;.v=1645072286826","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-starlight-202203?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1645049661304"],
             "ipadpic":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-spacegray-202203?wid=470&hei=556&fmt=png-alpha&.v=1645055392934", "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-pink-202203?wid=470&hei=556&fmt=png-alpha&.v=1645050580705","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-purple-202203?wid=470&hei=556&fmt=png-alpha&.v=1645066504390","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-blue-202203?wid=470&hei=556&fmt=png-alpha&.v=1645050189205","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-select-cell-starlight-202203?wid=470&hei=556&fmt=png-alpha&.v=1645895139238"]
         }
